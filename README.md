@@ -1,5 +1,5 @@
 ### Olá, sou Erika Santos 👋
-[![gene-20211211-191746-2-1.png](https://i.postimg.cc/zfMKL1yS/gene-20211211-191746-2-1.png)](https://postimg.cc/XZfphmcp)
+<center>[![gene-20211211-191746-2-1.png](https://i.postimg.cc/zfMKL1yS/gene-20211211-191746-2-1.png)](https://postimg.cc/XZfphmcp)</center>
 
 - 🔭 Estou trabalhando com ... Front-End
 - 🌱 Estou aprendendo ... Solidity 
