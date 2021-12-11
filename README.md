@@ -12,7 +12,7 @@
 - 🤔 Posso ajudar ... Algoritmos, artigos sobre tecnologia, projetos individuais
 - 😄 Pronomes: ... Ela/Dela
  
- <h2 style="color: red"> Idiomas </h2>
+ <h2 style="color: red;"> Idiomas </h2>
  <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png"> Me gusta aprender español
 
 <h2> Estatísticas </h2>
