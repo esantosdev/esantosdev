@@ -10,6 +10,9 @@
 - 👯 Posso colaborar com ... Front-End/Open-Source/Blockchain
 - 🤔 Posso ajudar ... Algoritmos, artigos sobre tecnologia, projetos individuais
 - 😄 Pronomes: ... Ela/Dela
+ 
+ <h2> Idiomas </h2>
+ :spain: Me gusta aprender español
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esantosdev&show_icons=true&theme=dracula)](https://github.com/esantosdev/github-readme-stats)
