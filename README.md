@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando com ... Front-End
 - 🌱 Estou aprendendo ... Solidity 
 - 👯 Posso colaborar com ... Front-End/ Open-Source Projects/ Blockchain Projects
-- 🤔 Posso ajudar ... Algorithms, Technology articles, individual projects
+- 🤔 Posso ajudar ... Algoritmos, artigos sobre tecnologia, projetos individuais
 - 😄 Pronomes: ... Ela/Dela
 
 
