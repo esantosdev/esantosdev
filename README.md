@@ -1,3 +1,5 @@
+<body style="background-color: red">
+
 <h1> ### Olá, sou Erika Santos 👋 </h1> <br>
 <p>Tenho 27 anos, atualmente trabalho com desenvolvimento Front-End e sou entusiasta Cripto e Blockchain.
 
@@ -25,3 +27,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> https://linkedin.com/in/erikasantos94
 
 ![snake gif](https://github.com/esantosdev/esantosdev/blob/output/github-contribution-grid-snake.gif)
+
+ </body>
