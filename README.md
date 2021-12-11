@@ -1,4 +1,9 @@
-<body style="background-color: red">
+<style type="text/css">
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
 
 <h1> ### Olá, sou Erika Santos 👋 </h1> <br>
 <p>Tenho 27 anos, atualmente trabalho com desenvolvimento Front-End e sou entusiasta Cripto e Blockchain.
@@ -28,4 +33,4 @@
 
 ![snake gif](https://github.com/esantosdev/esantosdev/blob/output/github-contribution-grid-snake.gif)
 
- </body>
+
