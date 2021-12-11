@@ -12,7 +12,7 @@
 - 😄 Pronomes: ... Ela/Dela
  
  <h2> Idiomas </h2>
- ES Me gusta aprender español
+ :ES: Me gusta aprender español
 
 <h2> Estatísticas </h2> 
 
