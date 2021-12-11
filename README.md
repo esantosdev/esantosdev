@@ -1,4 +1,5 @@
 <h1> ### Olá, sou Erika Santos 👋 </h1> <br>
+<p>Tenho 27 anos, atualmente trabalho em desenvolvimento Fron-End e sou entusiasta de Cripto e Blockchain.
 
 
 [![gene-20211211-191746-2-1.png](https://i.postimg.cc/zfMKL1yS/gene-20211211-191746-2-1.png)](https://postimg.cc/XZfphmcp)
