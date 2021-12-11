@@ -12,8 +12,9 @@
 - 😄 Pronomes: ... Ela/Dela
  
  <h2> Idiomas </h2>
- :spain: Me gusta aprender español
+ Me gusta aprender español
 
+<h2> Estatísticas </h2> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esantosdev&show_icons=true&theme=dracula)](https://github.com/esantosdev/github-readme-stats)
 
