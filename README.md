@@ -1,5 +1,3 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-
 <h1> ### Olá, sou Erika Santos 👋 </h1> <br>
 <p>Tenho 27 anos, atualmente trabalho com desenvolvimento Front-End e sou entusiasta Cripto e Blockchain.
 
