@@ -15,7 +15,7 @@
  <h2> Idiomas </h2>
  <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png"> Me gusta aprender español
 
-<h2> Estatísticas </h2> 
+<style><h2> Estatísticas {color:DarkOrange;} </h2></style>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esantosdev&show_icons=true&theme=dracula)](https://github.com/esantosdev/github-readme-stats)
 
