@@ -1,4 +1,4 @@
-### Olá, sou Erika Santos 👋
+<h1> ### Olá, sou Erika Santos 👋 </h1>
 [![gene-20211211-191746-2-1.png](https://i.postimg.cc/zfMKL1yS/gene-20211211-191746-2-1.png)](https://postimg.cc/XZfphmcp)
 
 - 🔭 Estou trabalhando com ... Front-End
