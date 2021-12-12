@@ -27,7 +27,7 @@
 
 ![snake gif](https://github.com/esantosdev/esantosdev/blob/output/github-contribution-grid-snake.gif)
 
-<h2> Visitas </h2>
+<h2> Seguidores </h2>
 
 [![Github](https://img.shields.io/github/followers/esantosdev?label=Follow&style=social)](https://github.com/esantosdev)
 
