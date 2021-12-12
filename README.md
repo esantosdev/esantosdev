@@ -13,7 +13,7 @@
 - 😄 Pronomes: ... Ela/Dela
  
  <h2> Minhas habilidades </h2>
- ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+ [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)]
  
  <h2> Idiomas </h2>
  <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png"> Me gusta aprender español
