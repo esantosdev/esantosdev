@@ -12,6 +12,9 @@
 - 🤔 Posso ajudar ... Algoritmos, artigos sobre tecnologia, projetos individuais
 - 😄 Pronomes: ... Ela/Dela
  
+ <h2> Minhas habilidades </h2>
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+ 
  <h2> Idiomas </h2>
  <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png"> Me gusta aprender español
 
