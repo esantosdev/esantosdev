@@ -13,7 +13,7 @@
 - 😄 Pronomes: ... Ela/Dela
  
  <h2> Minhas habilidades </h2>
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
  
  <h2> Idiomas </h2>
  <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ES%402x.png"> Me gusta aprender español
