@@ -42,3 +42,5 @@
 
 ![](https://komarev.com/ghpvc/?username=esantosdev&color=blueviolet)
 
+Referência para criar esse README: https://www.youtube.com/watch?v=TsaLQAetPLU
+
