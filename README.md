@@ -31,4 +31,7 @@
 
 [![Github](https://img.shields.io/github/followers/esantosdev?label=Follow&style=social)](https://github.com/esantosdev)
 
+<h2> Visitas </h2>
+
+![](https://komarev.com/ghpvc/?username=esantosdev&color=blueviolet)
 
