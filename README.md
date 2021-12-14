@@ -40,7 +40,7 @@
 
 <h2> Visitas </h2>
 
-![](https://komarev.com/ghpvc/?username=esantosdev&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=esantosdev&color=red)
 
 Referência para criar esse README: https://www.youtube.com/watch?v=TsaLQAetPLU
 
